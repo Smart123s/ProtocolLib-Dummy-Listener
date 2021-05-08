@@ -1,0 +1,6 @@
+name: ProtocolLib-Dummy-Listener
+version: 1.0
+main: plibDummy.PlibDummy
+author: Smart123s
+api-version: 1.16
+description: A simple plugin that registers an empty START listener for ProtocolLib.
